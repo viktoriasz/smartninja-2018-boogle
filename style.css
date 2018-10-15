@@ -1,0 +1,36 @@
+li {
+  color: red;
+}
+h2 {
+  color: green;
+}
+q {
+  color: #61380B;
+}
+.image {
+  border: 6px green dotted;
+  padding: 5px;
+
+}
+.image2 {
+  border: 4px #61380B solid;
+  padding: 2px;
+}
+
+.image:hover {
+  border: 6px #61380B solid;
+}
+
+.image2:hover {
+  border: 4px green dotted;
+  padding: 2px;
+}
+.help {
+  cursor: help;
+}
+#cell {
+  cursor: cell;
+}
+body {
+    background-color: #E3F6CE;
+}
